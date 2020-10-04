@@ -1,1 +1,5 @@
-cred.txt
+/credentials/
+/script/chromedriver.exe
+/script/Untitled.ipynb
+/script/.ipynb_checkpoints/
+/db/*
